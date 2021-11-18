@@ -1,0 +1,16 @@
+D:\ISTEA\Estructura de datos y tecnologia\PARCIAL NUMERO 2\Parcial2Eje2\bin\Debug\net5.0\Parcial2Eje2.exe
+D:\ISTEA\Estructura de datos y tecnologia\PARCIAL NUMERO 2\Parcial2Eje2\bin\Debug\net5.0\Parcial2Eje2.deps.json
+D:\ISTEA\Estructura de datos y tecnologia\PARCIAL NUMERO 2\Parcial2Eje2\bin\Debug\net5.0\Parcial2Eje2.runtimeconfig.json
+D:\ISTEA\Estructura de datos y tecnologia\PARCIAL NUMERO 2\Parcial2Eje2\bin\Debug\net5.0\Parcial2Eje2.runtimeconfig.dev.json
+D:\ISTEA\Estructura de datos y tecnologia\PARCIAL NUMERO 2\Parcial2Eje2\bin\Debug\net5.0\Parcial2Eje2.dll
+D:\ISTEA\Estructura de datos y tecnologia\PARCIAL NUMERO 2\Parcial2Eje2\bin\Debug\net5.0\ref\Parcial2Eje2.dll
+D:\ISTEA\Estructura de datos y tecnologia\PARCIAL NUMERO 2\Parcial2Eje2\bin\Debug\net5.0\Parcial2Eje2.pdb
+D:\ISTEA\Estructura de datos y tecnologia\PARCIAL NUMERO 2\Parcial2Eje2\obj\Debug\net5.0\Parcial2Eje2.csproj.AssemblyReference.cache
+D:\ISTEA\Estructura de datos y tecnologia\PARCIAL NUMERO 2\Parcial2Eje2\obj\Debug\net5.0\Parcial2Eje2.GeneratedMSBuildEditorConfig.editorconfig
+D:\ISTEA\Estructura de datos y tecnologia\PARCIAL NUMERO 2\Parcial2Eje2\obj\Debug\net5.0\Parcial2Eje2.AssemblyInfoInputs.cache
+D:\ISTEA\Estructura de datos y tecnologia\PARCIAL NUMERO 2\Parcial2Eje2\obj\Debug\net5.0\Parcial2Eje2.AssemblyInfo.cs
+D:\ISTEA\Estructura de datos y tecnologia\PARCIAL NUMERO 2\Parcial2Eje2\obj\Debug\net5.0\Parcial2Eje2.csproj.CoreCompileInputs.cache
+D:\ISTEA\Estructura de datos y tecnologia\PARCIAL NUMERO 2\Parcial2Eje2\obj\Debug\net5.0\Parcial2Eje2.dll
+D:\ISTEA\Estructura de datos y tecnologia\PARCIAL NUMERO 2\Parcial2Eje2\obj\Debug\net5.0\ref\Parcial2Eje2.dll
+D:\ISTEA\Estructura de datos y tecnologia\PARCIAL NUMERO 2\Parcial2Eje2\obj\Debug\net5.0\Parcial2Eje2.pdb
+D:\ISTEA\Estructura de datos y tecnologia\PARCIAL NUMERO 2\Parcial2Eje2\obj\Debug\net5.0\Parcial2Eje2.genruntimeconfig.cache
